@@ -64,30 +64,35 @@ https://www.kaggle.com/bulentsiyah/plant-disease-using-siamese-network-keras
 People may ask why have they used One-shot image recognition method though there are other state of art models like CNN and Hierarchical Bayesian Program Learning. The main reason for people using this method is the lack of data. The state of art Machine Learning Algorithms work very well when there is a huge amount of data but can fail miserably if there is a data scarcity.
 
 
-
 ## Heart Disease Prediction using Neural Networks
 
 https://www.kaggle.com/bulentsiyah/heart-disease-prediction-using-neural-networks
+
 
 ## Classifying DNA Sequences-Markov Models-KNN-SVM
 
 https://www.kaggle.com/bulentsiyah/classifying-dna-sequences-markov-models-knn-svm
 
+
 ## Pima Dataset-Deep Learning Grid Search 84.4%
 
 https://www.kaggle.com/bulentsiyah/pima-dataset-deep-learning-grid-search-84-4
+
 
 ## Dogs vs. Cats Classification (VGG16 Fine Tuning)
 
 https://www.kaggle.com/bulentsiyah/dogs-vs-cats-classification-vgg16-fine-tuning
 
+
 ## RNN Basic-Gated RecurrentUnit-Sentiment Analysis
 
 https://www.kaggle.com/bulentsiyah/rnn-basic-gated-recurrentunit-sentiment-analysis
 
+
 ## Basic RNN-Long Short Term Memory(LSTMs)
 
 https://www.kaggle.com/bulentsiyah/rnn-basic-long-short-term-memory-lstms
+
 
 ## NLP Basics (NLTK-SkipGram-CBOW-Reg.Exp.-Stemmer)
 
@@ -115,7 +120,7 @@ https://www.kaggle.com/bulentsiyah/keras-deep-learning-to-solve-titanic
 
 https://www.kaggle.com/bulentsiyah/comparing-classification-clustering-regression-ml
 
-<img src=images/comparing-classification-clustering-regression-ml.png alt="1" style="border: 1px solid #ccc" height = 175px >
+<img src=images/comparing-classification-clustering-regression-ml.png alt="1" style="border: 1px solid #ccc" height = 225px >
 
 ### Content
 * Comparing Classification Methods
@@ -134,6 +139,65 @@ https://www.kaggle.com/bulentsiyah/comparing-classification-clustering-regressio
     * Support Vector Regression , Scaling
     * Decision Tree
     * Random Forest
+
+
+## Data Science and Visualization Exercise
+
+https://www.kaggle.com/bulentsiyah/data-science-and-visualization-exercise
+
+<img src=images/data-science-and-visualization-exercise.png alt="1" style="border: 1px solid #ccc" height = 500px >
+
+### Content
+* Cleaning Data
+    * Diagnose data for cleaning
+    * Exploratory data analysis (EDA)
+    * Visual exploratory data analysis
+    * Tidy data
+    * Pivoting data
+    * Concatenating data
+    * Data types
+    * Missing data and testing with assert
+* Manipulating Data Frames with Pandas
+    * Index objects and labeled data
+    * Hierarchical indexing
+    * Pivoting data frames
+    * Stacking and unstacking data frames
+    * Melting data frames
+    * Categoricals and groupby
+* Seaborn
+    * Bar Plot
+    * Point Plot
+    * Joint Plot
+    * Pie Plot
+    * Lm Plot
+    * Kde Plot
+    * Violin Plot
+    * Heatmap
+    * Box Plot
+    * Swarm Plot
+    * Pair Plot
+    * Count Plot
+* Plotly
+    * Line Plot
+    * Scatter Plot
+    * Bar Plot
+    * Pie Plot
+    * Bubble Plot
+    * Histogram
+    * Word Cloud
+    * Box Plot
+    * Scatter Plot Matrix
+    * Inset Plot
+    * 3D Scatter Plot
+    * Multiple Subplots
+    * Animation Plot
+Visualization Tools
+    * Parallel Plots (Pandas)
+    * Network Charts (networkx)
+    * Venn Diagram (matplotlib)
+    * Donut Plot (matplotlib)
+    * Spyder Chart (matplotlib)
+    * Cluster Map (seaborn)
 
 ## License
 MIT
