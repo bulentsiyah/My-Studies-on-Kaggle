@@ -3,32 +3,34 @@ It is the repo I listed my kernels in Kaggle. You can access it in detail from m
 
 ## Time Series Forecasting and Analysis
 
-<img src=images/time-series-forecasting-and-analysis-part-2.PNG  alt="1" style="border: 1px solid #ccc" height = 200px >
-
 https://www.kaggle.com/bulentsiyah/time-series-forecasting-and-analysis-part-2
+
+<img src=images/time-series-forecasting-and-analysis-part-2.PNG  alt="1" style="border: 1px solid #ccc" height = 225px >
 
 ### Content
 * Deep Learning for Time Series Forecasting - (RNN)
 * Multivariate Time Series with RNN
 * Use Facebook's Prophet Library for forecasting
+  
 
 ## Deep Learning based Semantic Segmentation | Keras
 
-<img src=images/deep-learning-based-semantic-segmentation-keras.png alt="1" style="border: 1px solid #ccc" height = 175px >
-
 https://www.kaggle.com/bulentsiyah/deep-learning-based-semantic-segmentation-keras
+
+<img src=images/deep-learning-based-semantic-segmentation-keras.png alt="1" style="border: 1px solid #ccc" height = 175px >
 
 ### Content
 * What is semantic segmentation
 * Implementation of Segnet, FCN, UNet , PSPNet and other models in Keras
 * I extracted Github codes
 
+
 ## Learn OpenCV by Examples - with Python
+
+https://www.kaggle.com/bulentsiyah/learn-opencv-by-examples-with-python
 
 <img src=images/learn-opencv-by-examples-with-python_1.gif alt="1" style="border: 1px solid #ccc" height = 175px >
 <img src=images/learn-opencv-by-examples-with-python_2.png alt="1" style="border: 1px solid #ccc" height = 175px >
-
-https://www.kaggle.com/bulentsiyah/learn-opencv-by-examples-with-python
 
 ### Content
 * Sharpening
@@ -50,15 +52,18 @@ https://www.kaggle.com/bulentsiyah/learn-opencv-by-examples-with-python
 * Background Subtraction Methods
 * Funny Mirrors Using OpenCV
 
+
 ## Plant Disease Using Siamese Network - Keras
 
-<img src=images/plant-disease-using-siamese-network-keras.png alt="1" style="border: 1px solid #ccc" height = 150px >
-
 https://www.kaggle.com/bulentsiyah/plant-disease-using-siamese-network-keras
+
+<img src=images/plant-disease-using-siamese-network-keras.png alt="1" style="border: 1px solid #ccc" height = 150px >
 
 ### One-shot Image Recognition
 
 People may ask why have they used One-shot image recognition method though there are other state of art models like CNN and Hierarchical Bayesian Program Learning. The main reason for people using this method is the lack of data. The state of art Machine Learning Algorithms work very well when there is a huge amount of data but can fail miserably if there is a data scarcity.
+
+
 
 ## Heart Disease Prediction using Neural Networks
 
@@ -86,15 +91,29 @@ https://www.kaggle.com/bulentsiyah/rnn-basic-long-short-term-memory-lstms
 
 ## NLP Basics (NLTK-SkipGram-CBOW-Reg.Exp.-Stemmer)
 
-<img src=images/nlp-basics-nltk-skipgram-cbow-reg-exp-stemmer.png alt="1" style="border: 1px solid #ccc" height = 150px >
-
 https://www.kaggle.com/bulentsiyah/nlp-basics-nltk-skipgram-cbow-reg-exp-stemmer
 
-### Content
+<img src=images/nlp-basics-nltk-skipgram-cbow-reg-exp-stemmer.png alt="1" style="border: 1px solid #ccc" height = 150px >
 
+### Content
 * StopWords - Stemmer - Count Vectorizer
 * Reg.Exp.- Lemmatization - Bag of Words
 * NLTK - Word2Vec(SkipGram,CBOW) - Glove
+
+
+## MNIST for beginners tensorflow DNN CNN keras
+
+https://www.kaggle.com/bulentsiyah/mnist-for-beginners-tensorflow-dnn-cnn-keras
+
+## Keras-Deep Learning to Solve Titanic
+
+https://www.kaggle.com/bulentsiyah/keras-deep-learning-to-solve-titanic
+
+## Comparing Classification-Clustering-Regression ML
+
+https://www.kaggle.com/bulentsiyah/comparing-classification-clustering-regression-ml
+
+<img src=images/comparing-classification-clustering-regression-ml.png alt="1" style="border: 1px solid #ccc" height = 175px >
 
 
 ## License
