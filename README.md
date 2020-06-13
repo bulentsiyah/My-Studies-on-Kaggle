@@ -5,7 +5,7 @@ It is the repo I listed my kernels in Kaggle. You can access it in detail from m
 
 https://www.kaggle.com/bulentsiyah/time-series-forecasting-and-analysis-part-2
 
-<img src=images/time-series-forecasting-and-analysis-part-2.PNG  alt="1" style="border: 1px solid #ccc" height = 225px >
+<img src=images/time-series-forecasting-and-analysis-part-2.PNG  alt="1" style="border: 1px solid #ccc" height = 250px >
 
 ### Content
 * Deep Learning for Time Series Forecasting - (RNN)
@@ -30,7 +30,7 @@ https://www.kaggle.com/bulentsiyah/deep-learning-based-semantic-segmentation-ker
 https://www.kaggle.com/bulentsiyah/learn-opencv-by-examples-with-python
 
 <img src=images/learn-opencv-by-examples-with-python_1.gif alt="1" style="border: 1px solid #ccc" height = 175px >
-<img src=images/learn-opencv-by-examples-with-python_2.png alt="1" style="border: 1px solid #ccc" height = 175px >
+<img src=images/learn-opencv-by-examples-with-python_2.png alt="1" style="border: 1px solid #ccc" height = 250px >
 
 ### Content
 * Sharpening
@@ -120,7 +120,7 @@ https://www.kaggle.com/bulentsiyah/keras-deep-learning-to-solve-titanic
 
 https://www.kaggle.com/bulentsiyah/comparing-classification-clustering-regression-ml
 
-<img src=images/comparing-classification-clustering-regression-ml.png alt="1" style="border: 1px solid #ccc" height = 225px >
+<img src=images/comparing-classification-clustering-regression-ml.png alt="1" style="border: 1px solid #ccc" height = 300px >
 
 ### Content
 * Comparing Classification Methods
@@ -145,7 +145,7 @@ https://www.kaggle.com/bulentsiyah/comparing-classification-clustering-regressio
 
 https://www.kaggle.com/bulentsiyah/data-science-and-visualization-exercise
 
-<img src=images/data-science-and-visualization-exercise.png alt="1" style="border: 1px solid #ccc" height = 500px >
+<img src=images/data-science-and-visualization-exercise.png alt="1" style="border: 1px solid #ccc" height = 750px >
 
 ### Content
 * Cleaning Data
@@ -198,6 +198,77 @@ Visualization Tools
     * Donut Plot (matplotlib)
     * Spyder Chart (matplotlib)
     * Cluster Map (seaborn)
+
+## Machine Learning Exercise
+
+https://www.kaggle.com/bulentsiyah/machine-learning-exercise
+
+<img src=images/machine-learning-exercise.png alt="1" style="border: 1px solid #ccc" height = 300px >
+
+### Content
+* Regression
+    * Linear Regression
+    * Multiple Linear Regression
+    * Polynomial Linear Regression
+    * Support Vector Regression
+    * Decision Tree Regression
+    * Random Forest Regression
+* Classification
+    * K-Nearest Neighbour (KNN) Classification
+    * Support Vector Machine (SVM) Classification
+    * Naive Bayes Classification
+    * Decision Tree Classification
+    * Random Forest Classification
+* Clustering
+    * K-Means Clustering
+    * Hierarchical Clustering
+* Other Content
+    * Natural Language Process (NLP)
+    * Principal Component Analysis (PCA)
+    * Model Selection
+    * Recommendation Systems
+
+
+## Python Exercise
+
+https://www.kaggle.com/bulentsiyah/python-exercise
+
+### Content
+* Python Basics
+    * variable
+    * user defined functions
+    * default ve flexible functions
+    * lambda function
+    * nested function
+    * anonymous function
+    * list
+    * tuple
+    * dictionary
+    * conditionals
+    * loops
+* Object Oriented Programming
+    * class
+* Numpy
+    * basic operations
+    * indexing and slicing
+    * shape manipulation
+    * convert and copy
+* Pandas
+    * indexing and slicing
+    * filtering
+    * list comprehension
+    * drop and concatenating
+    * transforming data
+    * iteration example
+    * zip example
+    * example of list comprehension
+* Visualization with Matplotlib
+    * line Plot example
+    * scatter plot
+    * histogram
+    * bar plot
+    * subplots
+
 
 ## License
 MIT
