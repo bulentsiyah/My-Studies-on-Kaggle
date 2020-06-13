@@ -105,9 +105,11 @@ https://www.kaggle.com/bulentsiyah/nlp-basics-nltk-skipgram-cbow-reg-exp-stemmer
 
 https://www.kaggle.com/bulentsiyah/mnist-for-beginners-tensorflow-dnn-cnn-keras
 
+
 ## Keras-Deep Learning to Solve Titanic
 
 https://www.kaggle.com/bulentsiyah/keras-deep-learning-to-solve-titanic
+
 
 ## Comparing Classification-Clustering-Regression ML
 
@@ -115,6 +117,23 @@ https://www.kaggle.com/bulentsiyah/comparing-classification-clustering-regressio
 
 <img src=images/comparing-classification-clustering-regression-ml.png alt="1" style="border: 1px solid #ccc" height = 175px >
 
+### Content
+* Comparing Classification Methods
+  * Logistic Regression Classification
+  * K-Nearest Neighbour (KNN) Classification
+  * SVM Classification
+  * Naive Bayes Classification
+  * Decision Tree Classification
+  * Random Forest Classification
+* Comparing Clustering Methods K-Means-Hierarchical
+  * K-Means Clustering
+  * Hierarchical Clustering
+* Comparing Regression Methods
+    * Linear Regression
+    * Polynomial Regression
+    * Support Vector Regression , Scaling
+    * Decision Tree
+    * Random Forest
 
 ## License
 MIT
