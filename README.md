@@ -2,7 +2,10 @@
 It is the repo I listed my kernels in Kaggle. You can access it in detail from my Kaggle address https://www.kaggle.com/bulentsiyah. (updated:13/06/2020)
 
 ## Time Series Forecasting and Analysis
-<img src="images/time-series-forecasting-and-analysis-part-2.PNG" style="border: 2px solid black" />
+<kbd>
+  <img src="images/time-series-forecasting-and-analysis-part-2.PNG" />
+</kbd>
+
 
 https://www.kaggle.com/bulentsiyah/time-series-forecasting-and-analysis-part-2
 
